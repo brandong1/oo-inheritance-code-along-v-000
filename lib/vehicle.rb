@@ -1,4 +1,4 @@
-class Vehicle
+class Vehicle # In this exercise, this is the Super Class
 
   attr_accessor :wheel_size, :wheel_number
 
